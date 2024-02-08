@@ -1,0 +1,167 @@
+.banner{
+  width: 1410px;
+  height: 30vh;
+  background-color: #191919;
+  background-size: cover;
+  background-position: center;
+}
+.navbar{
+  width: 50%;
+  margin: 30px;
+  padding: 0px 0;
+  display: inline-block;
+  align-items: center;
+  justify-content: space-between;
+}
+.logo{
+  width: 150px;
+  cursor: pointer;
+}
+.navbar h1{
+  font-family: 'Times New Roman';
+  font-size: 50px;
+  color: #fff;
+  padding-left: 20px;
+  margin-top: 0%;
+  margin-left: 0%;
+  margin-bottom: 0%;
+  letter-spacing: 2px;
+  display: inline-flex;
+}
+.slide0{
+  background: #101010;
+  padding: 100px 76px;
+  width: 1258px;
+  height: auto;
+  margin: auto;
+  margin-bottom: 0%;
+  color: #fff;
+  position: relative;
+  }
+.slide0 h2{
+    color: #fff;
+    font-size: 50px;
+    text-transform: capitalize;
+    margin-bottom: 20px;
+  }
+.slide0 p{
+    color: #fff;
+    letter-spacing: 1px;
+    line-height: 28px;
+    font-size: 18px;
+    margin-bottom: 45px;
+}
+.slide0 ul li{
+    color: #fff;
+    letter-spacing: 1px;
+    font-size: 15px;
+    margin-bottom: 10px;
+}
+.content{
+    color: #fff;
+    width: 1130px;
+    max-width: 100%;
+    margin-top: -1.5%;    
+    width: 100;
+    padding: 90px 109px;
+    background-color: #191919;
+}
+.title h2{
+  color: #fff;
+  font-size: 75px;
+  width: 1130px;
+  margin: 30px auto;
+  text-align: center;
+}
+.content h3{
+    color: #fff;
+    font-size: 20px;
+    padding-left: 10px;
+    margin-top: 0%;
+    align-items: center;
+    letter-spacing: 2px;
+}
+.form{
+    width: 350px;
+    height: 220px;
+    position:absolute;
+    top: 170px;
+    left: 850px;
+    border-radius: 10px;
+    padding: 30px; 
+    color: #fff;
+}
+.container{
+    width: 100;
+    padding: 100px 0px;
+    background-color: #191919;
+
+}
+.container img{
+  height: 590px;
+  width: 460px;
+}
+.box{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 400px;
+}
+.card{
+  height: 365px;
+  width: 335px;
+  padding: 20px 35px;
+  background: #191919;
+  border-radius: 20px;
+  margin: 15px;
+  position: relative;
+  overflow: hidden;
+  text-align: center;
+  border: 2px solid whitesmoke;
+  border-radius: 10%;
+}
+h5{
+  color: #fff;
+  font-size: 23px;
+  margin-bottom: 15px;
+}
+.pra p{
+  color: #fff;
+  font-size: 16px;
+  line-height: 27px;
+  margin-bottom: 25px;
+}
+.card .button{
+  background-color: black;
+  color: #fff;
+  text-decoration: none;
+  border: 2px solid transparent;
+  font-weight: bold;
+  padding: 13px 22px;
+  border-radius: 30px;
+  transition: .4s;
+}
+.card .button:hover{
+  background-color: transparent;
+  border: 2px solid whitesmoke;
+  cursor: pointer;
+}
+.slide1{
+  color: whitesmoke;
+}
+.slide2{
+  color: whitesmoke;
+}
+.slide3{
+  color: whitesmoke;
+}
+.column {
+  float: left;
+  width: 33.33%;
+  height: 60%;
+  padding: 10
+}
+.row p{
+  color: black;
+  text-align: center;
+}
